@@ -1,1 +1,3 @@
-#monty
+0x19. C - Stacks, Queues - LIFO, FIFO
+#monty steep mountains
+#If you get the point
